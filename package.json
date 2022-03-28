@@ -1,0 +1,41 @@
+{
+  "name": "github-to-source-link",
+  "version": "1.0.3",
+  "description": "react component to link to github repository",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricL132/github-to-source.git"
+  },
+  "keywords": [
+    "github",
+    "source",
+    "link",
+    "react",
+    "reactjs",
+    "component",
+    "html",
+    "css"
+  ],
+  "scripts": {
+    "build-rollup": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.16.7",
+    "@rollup/plugin-node-resolve": "^13.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rollup": "^2.70.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
