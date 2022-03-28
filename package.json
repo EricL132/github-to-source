@@ -1,6 +1,6 @@
 {
   "name": "github-to-source-link",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react component to link to github repository",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
