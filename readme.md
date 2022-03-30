@@ -3,7 +3,7 @@ Simple react component to put repository link on bottom right of page
 
 # Installation
 ```
-npm i github-to-source-link
+npm i github-to-source
 ```
 
 # Props
@@ -20,7 +20,7 @@ npm i github-to-source-link
 ![](https://i.gyazo.com/753193819ef62ee785bc1a9f3f137886.png)
 # Usage 
 ```
-import { GithubToSource } from "github-to-source-link";
+import { GithubToSource } from "github-to-source";
 
 export function App(){
     return (
